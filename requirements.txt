@@ -1,0 +1,5 @@
+spice[ui]==2022.04.25
+geopy==2.2.0
+scikit-learn==1.0.2
+requests==2.27.1
+notebook>=6
